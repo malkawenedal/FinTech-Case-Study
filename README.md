@@ -1,1 +1,1 @@
-# First_aassignment--intor-to-fintech
+# First_aassignment--intro-to-fintech
